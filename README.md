@@ -1,2 +1,2 @@
 # AI-For-Bharat-Amazon
-Prject SUbmission for AI For Bharat HAckathon by Amazon
+Prject Submission for AI For Bharat Hackathon by Amazon
